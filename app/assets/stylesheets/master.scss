@@ -33,12 +33,23 @@
 }
 .links a {
   color: black;
-  font-size: 25px;
+  font-size: 18px;
   border-bottom: 1px solid #dfdfdf;
+  font-family: 'sinkin_sans400_italic';
+  font-weight: bold;
 }
 header {
   border-top: 9px solid #222222;
 }
 hr {
   clear: both;
+}
+h1 {
+  font-family: 'sinkin_sans400_regular';
+  font-weight: bold;
+  font-size: 36px
+}
+h2 {
+  font-family: 'sinkin_sans400_italic';
+  font-size: 36px;
 }
