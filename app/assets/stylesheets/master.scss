@@ -30,13 +30,14 @@
 }
 .links {
   padding-top: 26px;
-}
-.links a {
-  color: black;
-  font-size: 18px;
-  border-bottom: 1px solid #dfdfdf;
-  font-family: 'sinkin_sans400_italic';
-  font-weight: bold;
+
+  a {
+    color: black;
+    font-size: 18px;
+    border-bottom: 1px solid #dfdfdf;
+    font-family: 'sinkin_sans400_italic';
+    font-weight: bold;
+  }
 }
 header {
   border-top: 9px solid #222222;
